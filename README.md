@@ -1,7 +1,3 @@
-Okay, I see the contents of the repository now! It appears to be a collection of files related to a "Data-visualisation Internship" by Ajinkya.K. Based on the filenames, here's an attempt at creating an attractive and effective README file for this project:
-
-Markdown
-
 # Data Visualization Internship - Ajinkya.K
 
 **Welcome to the repository for my Data Visualization Internship project!** This collection of files represents the work and insights gained during my internship focused on transforming raw data into meaningful and impactful visual stories.
