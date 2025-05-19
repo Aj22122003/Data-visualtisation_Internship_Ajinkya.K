@@ -4,9 +4,7 @@ Markdown
 
 # Data Visualization Internship - Ajinkya.K
 
-[![Last Commit](https://img.shields.io/github/last-commit/Aj22122003/Data-visualtisation_Internship_Ajinkya.K)](https://github.com/Aj22122003/Data-visualtisation_Internship_Ajinkya.K/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/Aj22122003/Data-visualtisation_Internship_Ajinkya.K)](https://github.com/Aj22122003/Data-visualtisation_Internship_Ajinkya.K/issues)
-[![License](https://img.shields.io/github/license/Aj22122003/Data-visualtisation_Internship_Ajinkya.K?style=plastic)](https://github.com/Aj22122003/Data-visualtisation_Internship_Ajinkya.K/blob/main/LICENSE) **Welcome to the repository for my Data Visualization Internship project!** This collection of files represents the work and insights gained during my internship focused on transforming raw data into meaningful and impactful visual stories.
+**Welcome to the repository for my Data Visualization Internship project!** This collection of files represents the work and insights gained during my internship focused on transforming raw data into meaningful and impactful visual stories.
 
 ## 📂 Project Contents
 
